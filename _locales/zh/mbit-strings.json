@@ -19,7 +19,7 @@
 
   "电机.Fan|block": "风扇|引脚 %pin|速度 %value",
   "电机.Servo|block": "舵机|引脚 %pin|角度 %value",
-  "电机.Motor|block":"电机控制|%index|速度 %speed",
+  
 
   "小车.RGB_Car_Big|block": "小车RGB探照灯|红色 %value1|绿色 %value2|蓝色 %value3",
   "小车.RGB_Car_Big2|block": "小车RGB探照灯|选择车灯颜色 %value",
@@ -29,6 +29,7 @@
   "小车.Line_Sensor|block": "巡线传感器|位置 %direct|检测到 %value",
   "小车.Avoid_Sensor|block": "避障传感器|检测到 %value",
   "小车.Servo_Car|block": "小车舵机|编号 %num|角度 %value",
+  "小车.Motor|block":"电机控制|%index|速度 %speed",
   "小车.CarCtrl|block": "小车控制|%index",
   "小车.CarCtrlSpeed|block": "小车控制|%index|速度 %speed",
   "小车.CarCtrlSpeed2|block": "小车控制|%index|左电机速度 %speed1|右电机速度 %speed2"
